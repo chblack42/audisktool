@@ -1,0 +1,14 @@
+Here is the audisktool program I wrote for my Software Construction in Spring 2012 class at Auburn.
+
+Few things:
+-I have included the orignal project description of implementation, it is 10 pages... so here is a short but sweet version of the project. 
+	Create a tool that will monitor disk reads and writes. 
+	The tool must have
+	1. A simple text interface, with a help feature to list commands
+	2. Seprate Classes where applicable
+	3. The use of a namespace that is not std
+	4. Writes the results to a default file or a file indicated by user
+	5. A configuration file
+	6. A makefile
+
+-I have made a few improvements to the project itself so some discrepancies between the orignal requirments may be seen.
