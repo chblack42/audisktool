@@ -8,7 +8,7 @@ SRCS = main.cpp Config.cpp Report.cpp Tool.cpp CommandLine.cpp
 OBJS = $(SRCS:.c=.o)
 
 #executable
-MAIN = audisktool
+MAIN = disktool
 
 all: $(MAIN)
 	@echo Project AUDISKTOOL has been compiled
